@@ -2,10 +2,10 @@
     "name": "reformed",
     "displayName": "Reformed",
     "version": "1.0.0",
-    "publisher": "grubbj",
+    "publisher": "SaltyReformed",
     "description": "Reformed - dark themes that focus on high contrast and readability.",
     "author": {
-        "name": "grubbj"
+        "name": "SaltyReformed"
     },
     "categories": [
         "Themes"
@@ -40,12 +40,12 @@
     },        
     "license": "MIT LICENSE",
     "bugs": {
-        "url": "https://github.com/grubbj/Reformed/issues",
-        "email": "grubbj+github@pm.me"
+        "url": "https://github.com/SaltyReformed/Reformed/issues",
+        "email": "SaltyReformed@proton.me"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/grubbj/Reformed.git"
+        "url": "https://github.com/SaltyReformed/Reformed.git"
     },
-    "homepage": "https://github.com/grubbj/Reformed/#readme"
+    "homepage": "https://github.com/SaltyReformed/Reformed/#readme"
 }

@@ -7,12 +7,12 @@
 
 ## Blue, Green and Red dark themes
 
-![Reformed-Dark-Blue](https://github.com/grubbj/Reformed/blob/main/VS-Code/images/Reformed-Dark-Blue-Screenshot.png?raw=true)
+![Reformed-Dark-Blue](https://github.com/SaltyReformed/Reformed/blob/main/VS-Code/images/Reformed-Dark-Blue-Screenshot.png?raw=true)
 
-![Reformed-Dark-Green](https://github.com/grubbj/Reformed/blob/main/VS-Code/images/Reformed-Dark-Green-Screenshot.png?raw=true)
+![Reformed-Dark-Green](https://github.com/SaltyReformed/Reformed/blob/main/VS-Code/images/Reformed-Dark-Green-Screenshot.png?raw=true)
 
 
-![Reformed-Dark-Red](https://github.com/grubbj/Reformed/blob/main/VS-Code/images/Reformed-Dark-Red-Screenshot.png?raw=true)
+![Reformed-Dark-Red](https://github.com/SaltyReformed/Reformed/blob/main/VS-Code/images/Reformed-Dark-Red-Screenshot.png?raw=true)
 
 > **NOTE**: These themes are shown with the Fira Code Retina font, Material Icon theme, and Material Product Icon theme.
 
@@ -34,4 +34,4 @@
 
 ## License
 
-[MIT](https://github.com/grubbj/Reformed/blob/main/VS-Code/LICENSE)
+[MIT](https://github.com/SaltyReformed/Reformed/blob/main/VS-Code/LICENSE)
