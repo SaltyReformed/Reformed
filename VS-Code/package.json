@@ -1,24 +1,20 @@
 {
-    "name": "Reformed",
+    "name": "reformed",
     "displayName": "Reformed",
-    "description": "Dark high contrast themes",
     "version": "1.0.0",
-    "galleryBanner": {
-        "color": "#23262E",
-        "theme": "dark"
-    },
     "publisher": "grubbj",
+    "description": "Reformed - dark themes that focus on high contrast and readability.",
     "author": {
-        "name": "grubbj",
-        "email": "grubbj+github@pm.me"
-    },
-    "repository": {},
-    "engines": {
-        "vscode": "^1.14.0"
+        "name": "grubbj"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "images/Reformed-Cross.png",
+    "galleryBanner": {
+        "color": "#007acc",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -38,8 +34,18 @@
             }
         ]
     },
-    "__metadata": {
-        "isApplicationScoped": false,
-        "installedTimestamp": 1674135405754
-    }
+    
+    "engines": {
+        "vscode": "^1.0.0"
+    },        
+    "license": "MIT LICENSE",
+    "bugs": {
+        "url": "https://github.com/grubbj/Reformed/issues",
+        "email": "grubbj+github@pm.me"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/grubbj/Reformed.git"
+    },
+    "homepage": "https://github.com/grubbj/Reformed/#readme"
 }
