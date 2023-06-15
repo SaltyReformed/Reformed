@@ -7,15 +7,10 @@
 
 ## Blue, Green and Red dark themes
 
-### Blue
-
 ![Reformed-Dark-Blue](https://github.com/grubbj/Reformed/blob/main/VS-Code/images/Reformed-Dark-Blue-Screenshot.png?raw=true)
-
-### Green
 
 ![Reformed-Dark-Green](https://github.com/grubbj/Reformed/blob/main/VS-Code/images/Reformed-Dark-Green-Screenshot.png?raw=true)
 
-### Red
 
 ![Reformed-Dark-Red](https://github.com/grubbj/Reformed/blob/main/VS-Code/images/Reformed-Dark-Red-Screenshot.png?raw=true)
 
