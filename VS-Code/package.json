@@ -1,0 +1,45 @@
+{
+    "name": "Reformed",
+    "displayName": "Reformed",
+    "description": "Dark high contrast themes",
+    "version": "1.0.0",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "grubbj",
+    "author": {
+        "name": "grubbj",
+        "email": "grubbj+github@pm.me"
+    },
+    "repository": {},
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Reformed-Dark-Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Reformed-Dark-Blue.json"
+            },
+            {
+                "label": "Reformed-Dark-Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Reformed-Dark-Green.json"
+            },
+            {
+                "label": "Reformed-Dark-Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Reformed-Dark-Red.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "isApplicationScoped": false,
+        "installedTimestamp": 1674135405754
+    }
+}
