@@ -24,17 +24,17 @@
             {
                 "label": "Reformed-Dark-Blue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Reformed-Dark-Blue.json"
+                "path": "./VS-Code/Reformed-Dark-Blue.json"
             },
             {
                 "label": "Reformed-Dark-Green",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Reformed-Dark-Green.json"
+                "path": "./VS-Code/Reformed-Dark-Green.json"
             },
             {
                 "label": "Reformed-Dark-Red",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Reformed-Dark-Red.json"
+                "path": "./VS-Code/Reformed-Dark-Red.json"
             }
         ]
     },
