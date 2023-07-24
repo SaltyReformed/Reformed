@@ -1,7 +1,7 @@
 {
     "name": "reformed",
     "displayName": "Reformed",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "SaltyReformed",
     "description": "Reformed - dark themes that focus on high contrast and readability.",
     "author": {
@@ -36,7 +36,7 @@
     },
     
     "engines": {
-        "vscode": "^1.0.0"
+        "vscode": "^1.0.1"
     },        
     "license": "MIT LICENSE",
     "bugs": {
